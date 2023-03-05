@@ -1,5 +1,6 @@
 Bash script that creates a universal binary, from the Azul Zulu JRE, for macOS ARM (Apple Silicon) and Intel architectures
-The resulting package is a JRE only.
+
+Intended for distribution as a private JRE with applications; the resulting package is a JRE only.
 
 Requires lipo to be installed (comes with Apple Developer tools).
 
