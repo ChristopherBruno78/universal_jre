@@ -4,7 +4,7 @@ Intended for distribution as a private JRE with applications; the resulting pack
 
 For convenience, zulu-19 ARM and Intel JREs are included in the repository. You can replace these folders with any ARM and Intel JRE in the respective locations, and update the script BASE_JDK and TARGET variables.
 
-https://www.azul.com/downloads/?package=jre
+https://www.azul.com/downloads/?os=macos&package=jre
 
 Requires lipo to be installed (comes with Apple Developer tools).
 
